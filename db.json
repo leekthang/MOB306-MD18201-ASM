@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "thangfffff",
+      "address": "tts",
+      "email": "esfffs",
+      "phone": null,
+      "status": 1,
+      "id": 1
+    },
+    {
+      "name": "fsdffs",
+      "address": "dfs",
+      "email": "dffsd",
+      "phone": null,
+      "status": 0,
+      "id": 2
+    },
+    {
+      "name": "",
+      "address": "",
+      "email": "",
+      "phone": 0,
+      "status": 0,
+      "id": 3
+    }
+  ]
+}
